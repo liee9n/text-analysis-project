@@ -50,6 +50,6 @@
 
 *Current Result*
 
-![image](https://imgur.com/g6yqaED)
-![image](https://imgur.com/SCzguvy)
-![image](https://imgur.com/a/lW08OEc)
+![](https://imgur.com/g6yqaED)
+![](https://imgur.com/SCzguvy)
+![](https://imgur.com/a/lW08OEc)
