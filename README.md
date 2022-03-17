@@ -10,10 +10,10 @@
 
 *What package I used?*
 
-- [`requests`]
-- [`BeautifulSoup`]
-- [`openpyxl`]
-- [`jieba`]
+- `requests`
+- `BeautifulSoup`
+- `openpyxl`
+- `jieba`
 
 ## single-label_words_classification
 
@@ -25,25 +25,25 @@
 
 *What package I used?*
 
-- [`numpy`]
-- [`Pandas`]
-- [`sklearn`]
-- [`keras`]
-- [`gensim.models`]
+- `numpy`
+- `Pandas`
+- `sklearn`
+- `keras`
+- `gensim.models`
 
 ## multi-label_words_classification
 
 *About code···*
 
-1. Based on the output from [`crawler_wordcut_forchuk`] to make classification
+1. Based on the output from `crawler_wordcut_forchuk` to make classification
 2. As *multi-label*, adopting *OneVsRestClassifier*
 3. Utilizing word2vec and setting the feature of a word as its vector
 
 *What package I used?*
 
-- [`numpy`]
-- [`Pandas`]
-- [`sklearn`]
-- [`keras`]
-- [`gensim.models`]
-- [`openpyxl`]
+- `numpy`
+- `Pandas`
+- `sklearn`
+- `keras`
+- `gensim.models`
+- `openpyxl`
