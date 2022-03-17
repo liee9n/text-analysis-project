@@ -47,3 +47,8 @@
 - `keras`
 - `gensim.models`
 - `openpyxl`
+
+*Current Result*
+
+![image](https://imgur.com/g6yqaED)
+![image](https://imgur.com/SCzguvy)
