@@ -52,4 +52,3 @@
 
 ![](https://imgur.com/g6yqaED)
 ![](https://imgur.com/SCzguvy)
-![](https://imgur.com/a/lW08OEc)
