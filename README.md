@@ -50,5 +50,8 @@
 
 *Current Result*
 
+「程式」此字被分類屬於在「生活時事」、「人文藝術」、「設計手作」、「科技程式」
 ![image](current_result_01.png)
+
+「影像」此字被分類屬於在「人文藝術」、「影音創作」
 ![image](current_result_02.png)
