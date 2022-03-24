@@ -50,5 +50,5 @@
 
 *Current Result*
 
-![](https://imgur.com/SCzguvy)
-![](https://imgur.com/g6yqaED)
+![image](current_result_01.png)
+![image](current_result_02.png)
