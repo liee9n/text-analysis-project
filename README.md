@@ -5,7 +5,7 @@
 *About code···*
 
 1. Crawling all courses' information from [揪課](https://trevi.ctld.ncku.edu.tw/site/trevi_list)
-2. Label for the classification is based on the 9 different types of courses on 揪課
+2. Label for the classification is based on the 9 different types of courses on [揪課](https://trevi.ctld.ncku.edu.tw/site/trevi_list)
 3. Export all data from the result by the designed format
 
 *What package I used?*
