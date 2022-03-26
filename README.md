@@ -1,6 +1,6 @@
 # text-analysis-project
 
-## crawler_wordcut_forchuk.py
+## crawler_wordcut_forchuk.ipynb
 
 *About code···*
 
@@ -15,7 +15,7 @@
 - `openpyxl`
 - `jieba`
 
-## single-label_words_classification.py
+## single-label_words_classification.ipynb
 
 *About code···*
 
@@ -31,7 +31,7 @@
 - `keras`
 - `gensim.models`
 
-## multi-label_words_classification.py
+## multi-label_words_classification.ipynb
 
 *About code···*
 
